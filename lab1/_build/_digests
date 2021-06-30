@@ -1,7 +1,0 @@
-"Rule: ocaml: ml -> cmo & cmi (%=lab1_tests )": "K\022\019|uR\129\234\232\217\191\175\n\207\1794"
-"Resource: /Users/thksrc/Code/cs51/lab1/lab1_tests.ml": "\015\146\127\018\209\217\227\203K\150Y\195\226\t\149@"
-"Rule: ocaml: ml -> cmo & cmi (%=lab1 )": "\004\127\r\016\b\204>V\144?S\221\253\238r\251"
-"Rule: ocaml dependencies ml (%=lab1 )": "\230@\223<v\147\143\1745\166\155>\022\230/\137"
-"Resource: /Users/thksrc/Code/cs51/lab1/lab1.ml": "\151j\018\154E\209\132\219\195PRRm\218C\203"
-"Rule: ocaml: cmo* -> byte (%=lab1_tests )": "0\007\224r\139\208\143\244\233J{k\195\208\251Z"
-"Rule: ocaml dependencies ml (%=lab1_tests )": "r%\246\154\135C\207 \236\030n\127j\1764\007"
